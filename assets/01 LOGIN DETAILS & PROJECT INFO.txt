@@ -1,0 +1,20 @@
+**Database Name: carrentalp**
+
+**Developed by Gpw Team*
+
+**Recommended PHP Version 5.6.3 and 7.4.12**
+
+
+**Customer Login Details**
+
+Username: Gpw
+Password: Test@123
+
+
+**Employee Login Details**
+
+Username: harry
+Password: password
+
+Username: Gpw
+Password: Test@123
